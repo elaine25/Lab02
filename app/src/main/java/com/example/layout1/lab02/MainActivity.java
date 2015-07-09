@@ -6,6 +6,12 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
+    
+    /**
+* Classe que faz: criação de opção de menu e itens de seleção
+* @author Elaine.Martins
+* 
+*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
